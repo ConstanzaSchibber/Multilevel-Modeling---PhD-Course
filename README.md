@@ -1,6 +1,6 @@
 # Teaching-MultilevelModeling
 
-I was teaching assistant of this course when Jeff Gill taught it at Washington University in Saint Louis (School of Public Health). Then, I taught this course as a Postdoc at the University of Virginia and then twice at Michigan State University.
+I was teaching assistant of this course when Jeff Gill taught it at Washington University in Saint Louis (School of Public Health). Then, I taught this course as a Postdoc at the University of Virginia and then twice at Michigan State University when I was an Assistant Professor (tenure-track).
 
 Some of the material is from Gelman and Hill's excellent book on Hierarchical Modeling. Some of the code on the book and on Gelman's website needs some changing (partly because R and packages have change over time) for it to work. The key aspects of the code on the book works; it's usually bugs here and there. Some of the code was fixed by Jeff Gill and I took that and also did my own additions.
 
